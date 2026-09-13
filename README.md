@@ -1,4 +1,3 @@
-# redes-em-DHCP
 
 # Lab — Rede com DHCP
 
